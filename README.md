@@ -1,6 +1,7 @@
-# MY PAGE               https://yoheiohto.github.io/
-# MIZUNO GROUP        https://www.mizuno-group.com/
-# MIZUNO GROUP GITHUB https://github.com/mizuno-group
+[MY PAGE](https://yoheiohto.github.io/)  
+[MIZUNO GROUP](https://www.mizuno-group.com/)  
+[MIZUNO GROUP GITHUB](https://github.com/mizuno-group)  
+
 ---
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
