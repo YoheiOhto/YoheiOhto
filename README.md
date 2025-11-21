@@ -1,19 +1,33 @@
-[MY PAGE](https://yoheiohto.github.io/)  
-[MIZUNO GROUP](https://www.mizuno-group.com/)  
-[MIZUNO GROUP GITHUB](https://github.com/mizuno-group)  
+# 👋 Hi, I'm Yohei Ohto
+
+- 🔬 Researcher / Developer at **Mizuno Group**  
+- 🌐 Personal Page: [yoheiohto.github.io](https://yoheiohto.github.io/)  
+- 🧪 Mizuno Group HP: [mizuno-group.com](https://www.mizuno-group.com/)  
+- 🧬 Mizuno Group GitHub: [github.com/mizuno-group](https://github.com/mizuno-group)
 
 ---
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=YoheiOhto&column=10&theme=gruvbox&no-frame=true"/>
-</a>
+## 🏆 GitHub Trophies
+<p align="center">
+  <img width="800" src="https://github-profile-trophy.vercel.app/?username=YoheiOhto&column=10&theme=gruvbox&no-frame=true"/>
+</p>
 
 ---
 
+## 📊 GitHub Stats
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=YoheiOhto&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoheiOhto&layout=compact" />
 </div>
 
+---
 
+## 🧭 About Me
+- 💻 Interested in **computational science**, **data-driven modeling**, and **scientific software**
+- ⚙️ Passionate about building clean, reproducible, and impactful research code  
+- 🌱 Always exploring new tools & frameworks to accelerate scientific discovery
+
+---
+
+## 📫 Contact
+Feel free to reach out through **GitHub Issues**, **email**, or via my website.
