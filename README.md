@@ -14,16 +14,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api?username=YoheiOhto" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=YoheiOhto&layout=compact&langs_count=8&card_width=320" />
-</a>
-
----
-
 <div>
   <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoheiOhto&theme=nord_bright" />
 </div>
