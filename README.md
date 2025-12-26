@@ -7,13 +7,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img width="800" src="https://github-profile-trophy.vercel.app/?username=YoheiOhto&column=10&theme=gruvbox&no-frame=true"/>
-</p>
-
----
-
 <div>
   <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoheiOhto&theme=nord_bright" />
 </div>
