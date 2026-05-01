@@ -12,6 +12,8 @@
 </div>
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=YoheiOhto&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
 ## 🧭 About Me
 - 💻 Interested in **computational science**, **data-driven modeling**, and **scientific software**
