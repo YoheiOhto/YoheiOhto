@@ -27,7 +27,7 @@ jobs:
 
       # 3. Metrics (Achievements & Languages & Isometric Calendar) の生成
       - name: Generate GitHub Metrics SVG
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
