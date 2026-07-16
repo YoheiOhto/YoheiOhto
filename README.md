@@ -59,7 +59,7 @@
 
 ## 📊 Activity & Statistics
 
-### 📅 3D Contribution Calendar
+<!-- ### 📅 3D Contribution Calendar -->
 
 <!-- 3D草をリポジトリから静的に読み込みます。絶対にリンク切れしません -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
