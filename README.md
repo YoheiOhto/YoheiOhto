@@ -64,10 +64,10 @@
 <!-- 3D草をリポジトリから静的に読み込みます。絶対にリンク切れしません -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-### 🏆 Achievements & 🈷️ Languages
+<!-- ### 🏆 Achievements & 🈷️ Languages -->
 
 <!-- GitHub Actionsで生成した実績・言語インフォグラフィックスを読み込みます。絶対にリンク切れしません -->
-![](./github-metrics.svg)
+<!-- ![](./github-metrics.svg) -->
 
 ---
 
