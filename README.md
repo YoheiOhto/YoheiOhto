@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Yohei Ohto
 
+- 🎓 Ph.D. student at **The University of Tokyo**, working on bioinformatics and NLP for drug discovery
+- 💼 Part-time Engineer at **Preferred Networks (PFN)** since October 2026, following a healthcare internship from August to September 2026
 - 🔬 Researcher / Developer at **Mizuno Group**
 - 🌐 Personal Page: [yoheiohto.github.io](https://yoheiohto.github.io/)
 - 🧪 Mizuno Group HP: [mizuno-group.com](https://www.mizuno-group.com/)
